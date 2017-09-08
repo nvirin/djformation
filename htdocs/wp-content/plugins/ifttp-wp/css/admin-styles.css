@@ -1,0 +1,13 @@
+.ifttp i.dashicons {
+    display: inline-block;
+    font-size: 3em;
+    height: 1em;
+    width: 1em;
+}
+i.dashicons.dashicons-no {
+    margin: -0.05em 0 0 0.25em;
+
+}
+.form-table .ifttp {
+    margin-bottom: 1em;
+}

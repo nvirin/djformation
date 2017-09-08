@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lana Widgets\n"
+"POT-Creation-Date: 2016-11-25 22:07+0100\n"
+"PO-Revision-Date: 2016-11-25 22:07+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-lana-alert-widget.php:14
+msgid "Lana - Alert"
+msgstr ""
+
+#: includes/class-lana-alert-widget.php:15
+msgid "One-line alert message."
+msgstr ""
+
+#: includes/class-lana-alert-widget.php:89
+#: includes/class-lana-carousel-widget.php:307
+#: includes/class-lana-image-widget.php:121
+#: includes/class-lana-jumbotron-widget.php:114
+#: includes/class-lana-text-widget.php:122
+#: includes/class-lana-thumbnail-widget.php:158
+#: includes/class-lana-title-widget.php:89
+msgid "Title:"
+msgstr ""
+
+#: includes/class-lana-alert-widget.php:98
+#: includes/class-lana-jumbotron-widget.php:122
+#: includes/class-lana-text-widget.php:130
+#: includes/class-lana-thumbnail-widget.php:166
+#: includes/class-lana-well-widget.php:63
+msgid "Text:"
+msgstr ""
+
+#: includes/class-lana-alert-widget.php:107
+#: includes/class-lana-page-content-widget.php:140
+msgid "Type:"
+msgstr ""
+
+#: includes/class-lana-carousel-widget.php:14
+msgid "Lana - Carousel"
+msgstr ""
+
+#: includes/class-lana-carousel-widget.php:15
+msgid "Image slider."
+msgstr ""
+
+#: includes/class-lana-carousel-widget.php:315
+msgid "Gallery:"
+msgstr ""
+
+#: includes/class-lana-carousel-widget.php:327
+msgid "Edit Gallery"
+msgstr ""
+
+#: includes/class-lana-carousel-widget.php:333
+msgid "Style:"
+msgstr ""
+
+#: includes/class-lana-carousel-widget.php:356
+msgid "Image Height:"
+msgstr ""
+
+#: includes/class-lana-carousel-widget.php:365
+msgid "Image Position:"
+msgstr ""
+
+#: includes/class-lana-image-widget.php:14
+msgid "Lana - Image"
+msgstr ""
+
+#: includes/class-lana-image-widget.php:15
+msgid "Image with Magnific popup."
+msgstr ""
+
+#: includes/class-lana-image-widget.php:130
+#: includes/class-lana-thumbnail-widget.php:141
+msgid "Image:"
+msgstr ""
+
+#: includes/class-lana-image-widget.php:141
+#: includes/class-lana-thumbnail-widget.php:152
+msgid "Edit Image"
+msgstr ""
+
+#: includes/class-lana-jumbotron-widget.php:15
+msgid "Lana - Jumbotron"
+msgstr ""
+
+#: includes/class-lana-jumbotron-widget.php:16
+msgid "Showcase your key content."
+msgstr ""
+
+#: includes/class-lana-jumbotron-widget.php:129
+#: includes/class-lana-thumbnail-widget.php:173
+msgid "Button Text:"
+msgstr ""
+
+#: includes/class-lana-jumbotron-widget.php:136
+#: includes/class-lana-thumbnail-widget.php:180
+msgid "Button Link:"
+msgstr ""
+
+#: includes/class-lana-page-content-widget.php:14
+msgid "Lana - Page Content"
+msgstr ""
+
+#: includes/class-lana-page-content-widget.php:15
+msgid "Title or Featured Image."
+msgstr ""
+
+#: includes/class-lana-page-content-widget.php:134
+msgid "Title"
+msgstr ""
+
+#: includes/class-lana-page-content-widget.php:135
+msgid "Featured Image"
+msgstr ""
+
+#: includes/class-lana-text-widget.php:16
+msgid "Lana - Text"
+msgstr ""
+
+#: includes/class-lana-text-widget.php:17
+msgid "TinyMCE visual editor."
+msgstr ""
+
+#: includes/class-lana-thumbnail-widget.php:14
+msgid "Lana - Thumbnail"
+msgstr ""
+
+#: includes/class-lana-thumbnail-widget.php:15
+msgid "Image and text."
+msgstr ""
+
+#: includes/class-lana-thumbnail-widget.php:188
+msgid "Button Type:"
+msgstr ""
+
+#: includes/class-lana-title-widget.php:14
+msgid "Lana - Title"
+msgstr ""
+
+#: includes/class-lana-title-widget.php:15
+msgid "Title with size adjustment."
+msgstr ""
+
+#: includes/class-lana-title-widget.php:79
+msgid "Header 1 (h1)"
+msgstr ""
+
+#: includes/class-lana-title-widget.php:80
+msgid "Header 2 (h2)"
+msgstr ""
+
+#: includes/class-lana-title-widget.php:81
+msgid "Header 3 (h3)"
+msgstr ""
+
+#: includes/class-lana-title-widget.php:82
+msgid "Header 4 (h4)"
+msgstr ""
+
+#: includes/class-lana-title-widget.php:83
+msgid "Header 5 (h5)"
+msgstr ""
+
+#: includes/class-lana-title-widget.php:84
+msgid "Header 6 (h6)"
+msgstr ""
+
+#: includes/class-lana-title-widget.php:98
+#: includes/class-lana-well-widget.php:70
+msgid "Size:"
+msgstr ""
+
+#: includes/class-lana-well-widget.php:14
+msgid "Lana - Well"
+msgstr ""
+
+#: includes/class-lana-well-widget.php:15
+msgid "Inset effect."
+msgstr ""
+
+#: includes/class-lana-well-widget.php:75
+msgid "Default"
+msgstr ""
+
+#: includes/class-lana-well-widget.php:78
+msgid "Large"
+msgstr ""
+
+#: includes/class-lana-well-widget.php:81
+msgid "Small"
+msgstr ""
+
+#: lana-widgets.php:29
+msgid "Settings"
+msgstr ""
+
+#: lana-widgets.php:73 lana-widgets.php:95
+msgid "Lana Widgets Settings"
+msgstr ""
+
+#: lana-widgets.php:73
+msgid "Lana Widgets"
+msgstr ""
+
+#: lana-widgets.php:100
+msgid "General Settings"
+msgstr ""
+
+#: lana-widgets.php:105
+msgid "Automatic Updater"
+msgstr ""
+
+#: lana-widgets.php:112
+msgid "Disabled"
+msgstr ""
+
+#: lana-widgets.php:116
+msgid "Enabled"
+msgstr ""
+
+#: lana-widgets.php:123
+msgid "Frontend Settings"
+msgstr ""
+
+#: lana-widgets.php:128
+msgid "Bootstrap Load"
+msgstr ""
+
+#: lana-widgets.php:135
+msgid "None"
+msgstr ""
+
+#: lana-widgets.php:139
+msgid "Normal Bootstrap"
+msgstr ""
+
+#: lana-widgets.php:147
+msgid "Save Changes"
+msgstr ""

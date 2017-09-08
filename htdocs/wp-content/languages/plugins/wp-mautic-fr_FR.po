@@ -1,0 +1,142 @@
+# Translation of Plugins - WP Mautic - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - WP Mautic - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-19 13:51:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - WP Mautic - Stable (latest release)\n"
+
+#: options.php:84
+msgid "Tracking image"
+msgstr "Image de suivi"
+
+#: options.php:70
+msgid "Mautic URL"
+msgstr "URL de Mautic"
+
+#: options.php:22
+msgid "Add Mautic tracking capabilities to your website."
+msgstr "Ajoutez les capacités de suivi de Mautic à votre site web."
+
+#. Author URI of the plugin/theme
+msgid "http://mautic.org"
+msgstr "http://mautic.org"
+
+#. Author of the plugin/theme
+msgid "Mautic community"
+msgstr "Communauté Mautic"
+
+#. Description of the plugin/theme
+msgid "This plugin will allow you to add Mautic (Free Open Source Marketing Automation) tracking to your site"
+msgstr "Cette extension va vous permettre d'ajouter le code de suivi Mautic (Automatisation marketing open source) à votre site."
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/mautic/mautic-wordpress"
+msgstr "https://github.com/mautic/mautic-wordpress"
+
+#: wpmautic.php:60
+msgid "Settings"
+msgstr "Réglages"
+
+#: wpmautic.php:40
+msgid "WPMautic"
+msgstr "WPMautic"
+
+#: wpmautic.php:39
+msgid "WP Mautic Settings"
+msgstr "Réglages WP Mautic"
+
+#: shortcodes.php:184
+msgid "Mautic Tags"
+msgstr "Étiquettes Mautic"
+
+#: shortcodes.php:141
+msgid "Please define a valid video type with video-type=\"#\"."
+msgstr "Merci de définir un type de vidéo valid avec video-type=\"#\"."
+
+#: shortcodes.php:127
+msgid "You must provide a mautic form id. Add a form-id=\"#\" attribute to your shortcode. Replace # with the id of the form you want to use."
+msgstr "Vous devez fournir un identifiant de formulaire Mautic. Ajoutez un attribute form-id=\"#\" à votre code court. Remplacez # avec l'identifiant du formulaire que vous voulez utiliser."
+
+#: shortcodes.php:123
+msgid "You must provide a video source. Add a src=\"URL\" attribute to your shortcode. Replace URL with the source url for your video."
+msgstr "Vous devez fournir une source vidéo. Ajoutez un attribute src=\"URL\" à votre code court. Remplacez URL avec l'URL de votre vidéo."
+
+#: options.php:189
+msgid "Track user information when logged ?"
+msgstr "Suivre les informations des utilisateurs qui sont connectés ?"
+
+#: options.php:169
+msgid "Activate it when JavaScript is disabled ?"
+msgstr "L'activer lorsque JavaScript est désactivé ?"
+
+#: options.php:148
+msgid "Embedded within the `wp_footer` action."
+msgstr "Intégré avec l'action `wp_footer`"
+
+#: options.php:138
+msgid "Embedded within the `wp_head` action."
+msgstr "Intégré avec l'action `wp_head`"
+
+#: options.php:91
+msgid "Logged user"
+msgstr "Utilisateur connecté"
+
+#: options.php:77
+msgid "Tracking script location"
+msgstr "Emplacement du script de suivi"
+
+#: options.php:63
+msgid "Main Settings"
+msgstr "Réglages principaux"
+
+#: options.php:48
+msgid "Mautic forum"
+msgstr "Forum Mautic"
+
+#: options.php:45
+msgid "Mautic docs"
+msgstr "Documentation Mautic"
+
+#: options.php:42
+msgid "Mautic project"
+msgstr "Project Mautic"
+
+#: options.php:39
+msgid "Plugin support"
+msgstr "Support de l'extension"
+
+#: options.php:36
+msgid "Plugin docs"
+msgstr "Documentation de l'extension"
+
+#: options.php:33
+msgid "Quick Links"
+msgstr "Liens rapides"
+
+#: options.php:31
+msgid "Default Text"
+msgstr "Texte par défaut"
+
+#: options.php:31
+msgid "Mautic Dynamic Content:"
+msgstr "Contenu dynamique Mautic :"
+
+#: options.php:30
+msgid "Mautic Form Embed:"
+msgstr "Formulaire intégré Mautic :"
+
+#: options.php:28
+msgid "Shortcode Examples:"
+msgstr "Exemples de code court :"
+
+#. #-#-#-#-#  wp-mautic-code.pot (WP Mautic 2.1.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: options.php:21
+msgid "WP Mautic"
+msgstr "WP Mautic"

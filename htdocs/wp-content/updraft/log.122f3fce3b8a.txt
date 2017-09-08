@@ -1,0 +1,7 @@
+0000.001 (0) Opened log file at time: Fri, 30 Dec 2016 03:17:14 +0000 on http://www.dj-formation.com
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.30 WP: 4.7 PHP: 5.6.22-0+deb8u1 (fpm-fcgi, Linux AventourInstanceTest10j 3.14.53-grsec-paas-3117c5c #1 SMP PREEMPT Tue Mar 29 19:14:05 UTC 2016 x86_64) MySQL: 5.5.49 WPLANG: fr_FR Server: Apache/2.4.20 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 56.6M | 57M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.027 (0) Free space on disk containing Updraft's temporary directory: 7854.5 MB
+0000.036 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.043 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.044 (0) Semaphore lock (fd) failed (line 41)
+0000.045 (0) Failed to gain semaphore lock (fd) - another backup of this type is apparently already active - aborting (if this is wrong - i.e. if the other backup crashed without removing the lock, then another can be started after 3 minutes)
